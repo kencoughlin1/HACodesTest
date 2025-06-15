@@ -1,0 +1,8 @@
+{
+  "domain": "custom_ui_panel",
+  "name": "Custom UI Panel",
+  "documentation": "https://github.com/example/custom_ui_panel",
+  "requirements": [],
+  "dependencies": ["panel_custom"],
+  "codeowners": []
+}
